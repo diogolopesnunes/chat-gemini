@@ -1,0 +1,15 @@
+{
+  "name": "chat-gemini-txt",
+  "version": "1.0.0",
+  "description": "Chat local simples com Gemini API e contexto em arquivo",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "@google/genai": "latest",
+    "dotenv": "latest",
+    "express": "latest"
+  }
+}
