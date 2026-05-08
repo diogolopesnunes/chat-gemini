@@ -1,0 +1,183 @@
+Guia Definitivo de Sobrevivência e Maestria em Deepwoken
+
+Bem-vindo ao seu despertar, Iniciado. Você pisa em solo onde o erro é o único mestre e a morte não é um encerramento, mas um rito de passagem necessário. Deepwoken é um mundo implacável que exige mais do que reflexos; exige a paciência de um monge e a resiliência de quem entende que cada "wipe" é um degrau para a divindade. Aqueles que temem a perda nunca alcançarão o poder real. Escute bem estas lições, ou o abismo será o seu único descanso.
+
+
+--------------------------------------------------------------------------------
+
+
+2. Criação de Personagem: A Fundação do Seu Despertar
+
+A construção de um Caminhante começa nos seus atributos. Cada ponto é uma promessa de sobrevivência ou uma sentença de fraqueza.
+
+Atributos e Potencial
+
+Os seis pilares que sustentam sua existência:
+
+* Strength (Força): Rege o dano bruto e a capacidade de esmagar a postura inimiga.
+* Fortitude: Seu fôlego vital. Aumenta sua vida máxima e resistência física.
+* Agility (Agilidade): Governa sua velocidade de escalada, a eficácia do seu roll e seu parkour.
+* Intelligence (Inteligência): Expande sua reserva de Ether e potencializa a alquimia.
+* Willpower (Vontade): Sua sanidade. Essencial para resistir aos horrores das profundezas.
+* Charisma (Carisma): Rege sua influência sobre NPCs e talentos de manipulação em combate.
+
+Sistema de Uncapping (75-100)
+
+Ao atingir 75 pontos, você atingirá um teto. Desbloquear o potencial máximo (100) é um feito que, uma vez realizado, libera o limite para toda a sua conta naquela categoria.
+
+Atributo	Localização	NPC / Tarefa
+Strength	Miner's Landing	Ajude Tolcat a empurrar a rocha montanha acima.
+Fortitude	Fort Merritt	No presídio, quebre as barras da cela de Brutus. Deixe que ele o nocauteie.
+Agility	Etrus Docks	Escale a montanha próxima às docas e fale com Windrunner.
+Intelligence	Lower Erisia	Pegue o Soul Hearth Gem no reservatório. Vá ao Bird Cage e insira o código: Esquerda, Trás, Frente, Direita. Entre na biblioteca oculta e coma os Blue Caps (cogumelos azuis).
+Willpower	The Depths	Encontre Akira perto do Temple of Hearts. Fale com ele e depois reencontre-o em Castle Light.
+Charisma	Etris/Erisia	Ajude Carlayia em Etris. Salve-a em Erisia e diga: "I don't think you're cut out for this". Encontre-a de volta em Etris.
+Weapon Stat	Isle of Vigils	Entregue uma Gailstone para Isaac (perto da mansão do Duke em Erisia). Fale com KJ na Isle of Vigils e, por fim, com o Maestro Evanguard Rest.
+
+Boons e Flaws
+
+Vantagens e Desvantagens não são apenas cosméticas. Como mentor, recomendo o Boon Autodidact para acelerar seu aprendizado. Flaws são riscos calculados que fornecem pontos para talentos mais poderosos. Escolha com sabedoria.
+
+Origens (Origins)
+
+Sua origem molda seu destino inicial. A origem Voidwalker é para os predadores: para desbloqueá-la, você deve obter 5 mortes de jogadores que não pertençam à sua guilda. Após as mortes, procure o evento de barcos (Etra vs. Alis) no mar aberto, entre na "bolha" de distorção temporal e aceite o pacto.
+
+
+--------------------------------------------------------------------------------
+
+
+3. Interface (GUI) e Sobrevivência Básica
+
+Sua interface é o pulso da sua alma. Ignore-a e você perecerá.
+
+A Barra de Vida e seus Estados
+
+1. Normal: Estado padrão. Sua alma está intacta.
+2. Rusty (Enferrujada): Você perdeu uma vida. O próximo erro pode ser fatal.
+3. Jaundiced (Amarelada): Sua barra está doente. A próxima morte o enviará diretamente para The Depths.
+4. Stained (Manchada): O estado final. Presente no abismo ou por maldições. Morrer aqui significa o fim definitivo do seu personagem (Wipe).
+
+Mecânicas de Sobrevivência
+
+Estar com as barras vazias desabilita sua regeneração natural.
+
+Recurso	Impacto em Zero	Penalidades Específicas
+Stomach	Fome Extrema	Perda de vida e sangue, redução da vida máxima. Risco de nocaute imediato ao nadar.
+Water	Desidratação	Visão embaçada e lentidão extrema.
+Blood	Hemorragia	Estado de combate permanente e morte iminente por sangramento.
+
+Postura (Posture)
+
+A barra amarela é sua última linha de defesa. Ataques bloqueados a preenchem. Se ela estourar, você sofrerá um Guard Break, ficando paralisado por 1.05s. Use ataques pesados para estourar a postura alheia antes que estourem a sua.
+
+
+--------------------------------------------------------------------------------
+
+
+4. O Sistema de Combate: Reação vs. Predição
+
+Em Deepwoken, o pânico é seu pior inimigo. O combate é uma dança de parries e contra-ataques.
+
+Controles Fundamentais
+
+Comando	Ação	Função
+M1	Ataque Básico	Golpe principal. Gera pressão e dano.
+M2	Finta (Feint)	Cancela ataques. Fundamental para enganar o parry alheio.
+R	Crítico	Ataque pesado. Alto dano de postura. Não pode ser fintado na maioria das armas.
+F	Parry/Bloqueio	O toque deflete (Parry); segurar protege (Bloqueio).
+Q	Roll	Esquiva com frames de invencibilidade.
+G	Vent	Afasta inimigos. Requer 40 de Tempo. Cuidado: o Vent pode ser aparado.
+T	Taunt (Spitting)	Provocação. Recupera 5% de HP e postura se usado cara a cara.
+Ctrl+M1	Uppercut	Lança o inimigo ao ar. Ótimo para quebrar o ritmo.
+
+A Arte do Parry e Bloqueio
+
+* Parry: Requer timing. Reseta sua postura e atordoa o oponente. Possui um cooldown de 1.2s — se errar o tempo, você ficará vulnerável.
+* Bloqueio: Absorve o dano, mas consome postura. Nunca confie apenas no bloqueio contra armas pesadas.
+
+Técnicas de Especialista
+
+1. Feinting (Fintas): Engane seu oponente. Use M2 para cancelar seu golpe e forçar um parry prematuro no inimigo, então castigue-o durante o cooldown dele.
+2. Posture Stacking: Não pare de atacar. Use Críticos (R) e ataques pesados para acumular postura no inimigo até que a guarda dele exploda.
+3. Venting: Use G para interromper combos inimigos, mas não seja previsível; um oponente veterano fará o parry do seu vent e o deixará em estado de choque.
+
+Ataques Telegráficos (Cores)
+
+* Vermelho: Ataque Imparável. Esquive (Roll) ou seja atingido.
+* Pink (Rosa): Dano massivo de postura. Bloqueie ou esquive, mas evite o impacto direto.
+* Azul: Ataques de área ou saltos. Pule ou bloqueie.
+* Verde: Ataque de Parry Obrigatório. Bloquear resultará em Guard Break imediato.
+* Amarelo: Ataques horizontais altos. Agache (Crouch) para evitar.
+* Branco: Ataques rasteiros. Pule (Jump) para sobreviver.
+
+
+--------------------------------------------------------------------------------
+
+
+5. Progressão e Exploração do Mapa
+
+Rota Recomendada (1-20)
+
+* 1-10 (Iniciação): Lower Erisia. Mate bandidos e Mudskippers até entender o básico.
+* 10-15 (Expansão): Eastern Luminant. Summer Isle e Aratel Island testarão sua coragem.
+* 15-20 (Maestria): Starswept Valley. É aqui que os fracos desistem.
+
+Trial of One
+
+Um desafio solitário em Minityrsa. Se você for capaz de vencê-lo, sua progressão será acelerada drasticamente. É o teste definitivo para iniciantes que buscam a elite.
+
+O Fim é Apenas o Começo (Pós-20)
+
+* Farmar sua Resonance (Bell), sua habilidade suprema.
+* Descer ao Layer 2 (Floor 1 e 2) para enfrentar deuses.
+* Dominar o PvP no Chime of Conflict.
+
+
+--------------------------------------------------------------------------------
+
+
+6. Sistemas de Poder Avançados
+
+Shrine of Order: O Segredo das Divindades
+
+O Shrine of Order (localizado entre Power 8-13) separa os amadores dos mestres de builds. A "mágica" consiste em investir pontos pesados em atributos caros para obter talentos de alto nível (ex: 90 Intelligence para Critical Engine) e então usar o santuário. Ele redistribuirá seus pontos de forma equilibrada, mas você manterá os talentos de alto custo, mesmo que não tenha mais os requisitos de atributo.
+
+* Custo: 10 Knowledge.
+* Restrição: Não pode possuir um Oath (Juramento) antes do uso.
+
+Enchantments (Encantamentos)
+
+1. Blessings (Bênçãos): Astral é a bênção definitiva para o PvE, concedendo +20% de dano. Vampirism cura ao bater, sendo vital para iniciantes.
+2. Curses (Maldições): Poder imenso com um preço. A Curse of the No Life King concede regeneração massiva, mas mancha permanentemente sua vida e mata você instantaneamente se sua sanidade zerar no abismo.
+
+Juramentos e Resonances
+
+* Oaths (Juramentos): Especializações como Jetstriker ou Blindseer que definem sua classe.
+* Murmurs: Habilidades passivas, como o Ardour obtido ao caçar o Dread Serpent.
+* Resonance (Bell): O despertar final de sua alma.
+
+
+--------------------------------------------------------------------------------
+
+
+7. Morte e Meta-Progressão
+
+The Depths
+
+O abismo não perdoa. Se cair aqui, sua única saída é o Trial no portão da cidade. Se falhar, seu personagem será apagado e sua alma se tornará poeira.
+
+Wiping e Echoes
+
+Ao sofrer o Wipe, você recebe Echoes baseados no seu progresso. Use-os para comprar bônus permanentes. Use o Hippocampal Pool (40 Echoes) para garantir que seus itens encantados mais preciosos passem para o seu próximo personagem.
+
+
+--------------------------------------------------------------------------------
+
+
+8. Dicas de Especialista para Iniciantes
+
+1. O Ping é seu Mestre: Deepwoken é reação pura. Se o seu ping estiver acima de 120ms, você já está morto. Procure servidores com ping baixo (<40ms) para que seus parries realmente conectem.
+2. Dojo da Isle of Vigils: Não vá para o mundo aberto sem treinar. O instrutor na Isle of Vigils é o melhor lugar para aprender o timing do parry sem o risco de perder seu personagem.
+3. Técnica do Pizza Parry: Aprenda a enfrentar monstros sem ser atingido nenhuma vez ("no-hitting"). Foque 100% na defesa antes de pensar em atacar.
+4. O Poder do Cuspe (Taunt): Pressionar 'T' na cara do inimigo restaura 5% de HP e postura. É arriscado, mas em um duelo de vida ou morte, é a diferença entre a vitória e o esquecimento.
+5. Abrace o Wipe: Não chore por um personagem perdido. Cada alma que você perde o torna um jogador tecnicamente superior. O medo de morrer é o que realmente o impede de evoluir.
